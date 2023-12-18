@@ -1,4 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome👋&fontSize=35&fontColor=D1D1D1&color=timeGradient&desc=Ara's%20GitHub%20&descAlign=68&descSize=10)
+
 
 <!--
 **arajo/arajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
