@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome%20👋&fontSize=35&fontColor=D1D1D1&desc=Ara's%20GitHub%20&descAlign=68&descSize=10)
 
+![](https://raw.githubusercontent.com/arajo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 <!--
 **arajo/arajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
