@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome👋&fontSize=35&fontColor=D1D1D1&color=timeGradient&desc=Ara's%20GitHub%20&descAlign=68&descSize=10)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Welcome👋&fontSize=35&fontColor=D1D1D1&desc=Ara's%20GitHub%20&descAlign=68&descSize=10)
 
 
 <!--
